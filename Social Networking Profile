@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Divya Gupta</title>
+	</head>
+	<body>
+	    <img src="https://scontent-dfw1-1.xx.fbcdn.net/v/t1.0-9/13417490_1242305615782229_6792311324979145687_n.jpg?oh=9ee1350b80906cfa3d2d74acae33af5f&oe=57CF6BC6" />
+	    <p> I am 25 years of age. I am a female. My hometown is Indore, India.</p>
+	    <ul>
+	        <li>Interests</li>
+	            <ol>
+	                <li style="font-family:Arial"><strong>Computer Programming Languages </strong></li>
+	                <li>Reading Adventeorus, Suspense and Motivational Novels or Story Books</li>
+	                <li>Playing all kinds of sports</li>
+	                <li>Cooking</li>
+	            </ol>
+	        <li>Jobs</li>
+	            <ol>
+	                <li>Instructor</li>
+	                <li>Tutor</li>
+	                <li>Student</li>
+	                <li>Summer Intern</li>
+	            </ol>	        
+	        <li>Favorite Quotes</li>
+	            <ol>
+	                <li style="color:red">Nothing is Impossible, because the word itself says- I am possible</li>
+	                <li>When one door of happiness closes another opens, but we are so busy looking at the closed doors to open that we cannot see the open door</li>
+	            </ol>
+	        <li>Where I've Lived</li>
+	            <ul>
+	                <li style="font-size:20px"><em>San Antonio</em></li>
+	                <li>Westlake</li>
+	                <li>Baltimore</li>
+	                <li>New Jersey</li>
+	                <li>New York</li>
+	                <li>Indore</li>
+	            </ul>
+	    </ul>
+	</body>
+</html>
