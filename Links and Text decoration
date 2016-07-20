@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <link type="text/css" rel="stylesheet" href="stylesheet.css">
+		<title>Result</title>
+	</head>
+	<body>
+	    <a href="http://www.google.com">Link text</a>
+	    <img src="http://static.dreamstime.com/x/kitten-looking-flowers-cute-little-outdoor-wooden-snag-46973975.jpg" />
+	    <h1>Cat fell in love with flowers</h1>
+	    <p>One fine morning, the most handsome cat in the town was walking in the woods in search for food. He had always heard about the beautiful flowers and how soft their petals are, but never encountered some until today.</p>
+	    <p>Today, he saw a big tree fallen down on the ground because of the storm that occurred yesterday and must have destroyed the tree. Right there, on the trunk of that tree were the most beautiful yellow flowers the cat had ever seen. He stared at flowers in ultimate tranquility, then went up close and touched the petals. And that's how he immediately fell in love with them.</p>
+	</body>
+</html>
