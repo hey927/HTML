@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	    <table>
+	        <thead>
+	            <th colspan="3">My Table</th>
+	        </thead>
+	        <tr>
+	            <td>
+	            <a href="http://www.google.com">
+	                <img src="http://media.istockphoto.com/photos/timelapse-of-hanoi-opera-house-vietnam-picture-id531053726?s=235x235" /></a></td>
+	            <td>
+	            <a href="http://www.yahoo.com">
+	                <img src="http://media.istockphoto.com/photos/couple-running-on-the-beach-picture-id480272822?s=235x235" /></a></td>
+	            <td>
+	            <a href="http://www.linkedin.com">
+	                <img src="http://media.istockphoto.com/photos/teenage-couple-picture-id480894500?s=235x235" /></a></td>
+            </tr>
+	        <tr>
+	            <td>
+	            <a href="http://www.splitwise.com">
+	                <img src="http://media.istockphoto.com/photos/man-on-top-of-skyscraper-picture-id488719189?s=235x235" /></a></td>
+	            <td>
+	            <a href="http://www.bankofamerica.com">
+	                <img src="http://media.istockphoto.com/photos/great-wall-of-china-picture-id486120341?s=235x235" /></a></td>
+	            <td>
+	            <a href="http://www.utsa.edu">
+	                <img src="http://media.istockphoto.com/photos/rocking-out-to-their-favourite-band-picture-id501951285?s=235x235" /></a></td>
+	        </tr>
+	        </tr>
+	            <td>
+	            <a href="http://www.facebook.com">
+	                <img src="http://media.istockphoto.com/photos/lone-hiker-walking-on-ben-lomond-mountain-picture-id482880743?s=235x235" /></a></td>
+	            <td>
+	            <a href="http://www.pinterest.com">
+	                <img src="http://media.istockphoto.com/photos/the-world-at-rest-picture-id157404674?s=235x235" /></a></td>
+	            <td>
+	            <a href="http://www.apple.com">
+	                <img src="http://media.istockphoto.com/photos/shanghai-highway-at-night-picture-id521345495?s=235x235" /></a></td>
+	        <tr>
+	    </table>
+	</body>
+</html>
